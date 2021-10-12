@@ -5,5 +5,5 @@ http://nbviewer.jupyter.org/github/data-journalism/olympic/blob/gh-pages/olympic
 
 # HTML Version
 
-data-journalism.github.io/olympic/
+https://data-journalism.github.io/olympic/
 
